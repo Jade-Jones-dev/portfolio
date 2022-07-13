@@ -1,10 +1,20 @@
-/* Main styling /*
+/* Main styling */
 
-/* Navbar */
+:root{
+    --black: #252422;
+    --darkgrey: #403d39;
+    --lightgrey: #ccc5b9;
+    --white: #fffcf2;
+    --pink: #ff5e5b;
+    --blue: #00cecb;
+}
 
-/* Images */
 
-/* Form */
+/* Navbar /*
+
+/* Images /*
+
+/* Form /*
 
 /* Buttons /*
 
