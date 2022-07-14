@@ -5,8 +5,12 @@
 
 Tasks for tomorrow
 * Import fonts from font awesome
+
+
+13/07/22
 * Build nav bar
 * Source background images and put them into image file
 
-13/07/22
 
+14/07/22
+* build footer
