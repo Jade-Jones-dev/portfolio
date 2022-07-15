@@ -13,4 +13,7 @@ Tasks for tomorrow
 
 
 14/07/22
-* build footer
+* resolved linking issue with CSS file
+
+15/07/22
+* style the navbar 
