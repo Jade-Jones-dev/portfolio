@@ -6,4 +6,21 @@
     --white: #fffcf2;
     --pink: #ff5e5b;
     --blue: #00cecb;
-    --purple: #7209b7;}
+    --purple: #7209b7;
+    font-family: 'Architects Daughter', cursive;
+}
+
+    header{
+        background-color: var(--black);
+        color: var(--white);
+    }
+
+    body{
+        background-color: var(--black);
+        color: var(--white);
+    }
+
+    footer{
+        background-color: var(--black);
+        color: var(--white);
+    }

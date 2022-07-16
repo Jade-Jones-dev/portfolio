@@ -16,4 +16,8 @@ Tasks for tomorrow
 * resolved linking issue with CSS file
 
 15/07/22
+* started working on color scheme 
+* imported fonts
+
+16/07/22
 * style the navbar 
