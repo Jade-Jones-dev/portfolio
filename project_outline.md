@@ -21,3 +21,8 @@ Tasks for tomorrow
 
 16/07/22
 * style the navbar 
+* add text to main page
+
+
+
+
