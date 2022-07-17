@@ -31,6 +31,26 @@
         text-decoration: none;
     }
 
+    .name-1{
+        color: var(--pink);
+        font-size: 2.5em
+    }
+
+    .intro{
+        width: auto;
+        text-align: center;
+        padding-top: 25em;
+        padding-bottom: 10em;
+    }
+
+    #title{
+        font-size: 3em;
+    }
+
+    #title2{
+        font-size: 3em;
+    }
+
 
     /* form css /*
 
