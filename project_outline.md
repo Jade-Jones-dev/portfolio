@@ -20,8 +20,13 @@ Tasks for tomorrow
 * imported fonts
 
 16/07/22
+* added the form- need to change inputs 
+
+17/07/22
+* labels are not showing on form
 * style the navbar 
 * add text to main page
+
 
 
 
