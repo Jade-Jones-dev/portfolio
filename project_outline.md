@@ -27,6 +27,10 @@ Tasks for tomorrow
 * style the navbar 
 * add text to main page
 
+20/07/2022
+* haven't worked on portfolio because I have been completing project
+* Going to rebuild portfolio working on mobile first responsiveness
+* need to find a wireframe tool
 
 
 
