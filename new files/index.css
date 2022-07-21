@@ -1,0 +1,33 @@
+
+
+/*  */
+
+
+/* header */
+
+/* footer */
+footer{
+    display: flex;
+    justify-content: center;
+}
+
+
+/* icons */
+
+.twitter 
+{
+    padding: 20px;
+    color:pink;
+    background: black;
+
+}
+
+.linkedin {
+    padding: 20px;
+}
+
+.blog{
+    padding: 20px;
+    
+}
+
