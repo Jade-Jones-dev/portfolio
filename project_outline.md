@@ -34,4 +34,6 @@ Tasks for tomorrow
 
 
 
-
+21/07/2022
+* I have decided to start over on my portfolio. This is my first big project and after learning responsiveness I wish to change to a mobile first layout.
+* Have added new files and css
