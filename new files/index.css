@@ -1,5 +1,8 @@
 
-
+:root{
+ background-color: black;
+ 
+}
 /*  */
 
 
@@ -14,10 +17,32 @@ footer{
 
 /* icons */
 
-.fa-brands{
-    font-size: 60px;
-    color:rgb(238, 20, 165);
-    padding: 20px;
+ .fa-twitter-square  {
+    margin: 30px;
+        font-size: 30px;
+        background-color: rgb(238, 20, 165);
+        padding: 20px;
+        color: white;
+        border-radius: 60px;
 
 }
 
+.fa-linkedin {
+        margin: 30px;
+        font-size: 30px;
+        background-color: rgb(238, 20, 165);
+        padding: 20px;
+        color: white;
+        border-radius: 60px;
+
+    }
+
+.fa-blogger {
+        margin: 30px;
+        font-size: 30px;
+        background-color: rgb(238, 20, 165);
+        padding: 20px;
+        color: white;
+        border-radius: 60px;
+
+    }
