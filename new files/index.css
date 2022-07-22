@@ -27,30 +27,29 @@ footer{
 
  .fa-twitter-square  {
     margin: 30px;
-        font-size: 30px;
-        background-color: var(--pink);
-        padding: 20px;
-        color: white;
-        border-radius: 60px;
-
+    font-size: 30px;
+    background-color: var(--pink);
+    padding: 20px;
+    color: white;
+    border-radius: 60px;
 }
 
 .fa-linkedin {
-        margin: 30px;
-        font-size: 30px;
-        background-color: var(--pink);
-        padding: 20px;
-        color: white;
-        border-radius: 60px;
+    margin: 30px;
+    font-size: 30px;
+    background-color: var(--pink);
+    padding: 20px;
+    color: white;
+    border-radius: 60px;
 
     }
 
 .fa-blogger {
-        margin: 30px;
-        font-size: 30px;
-        background-color: var(--pink);
-        padding: 20px;
-        color: white;
-        border-radius: 60px;
+    margin: 30px;
+    font-size: 30px;
+    background-color: var(--pink);
+    padding: 20px;
+    color: white;
+    border-radius: 60px;
 
     }
