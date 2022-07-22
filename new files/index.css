@@ -6,7 +6,7 @@
  margin: 0;
  min-height: 100vh;
  box-sizing:border-box;
- 
+ --pink:rgb(238, 20, 165);
  
 }
 /*  */
@@ -19,6 +19,7 @@ footer{
     display: flex;
     justify-content: center;
     font-family: 'Roboto' , sans-serif;
+    
 }
 
 
@@ -27,7 +28,7 @@ footer{
  .fa-twitter-square  {
     margin: 30px;
         font-size: 30px;
-        background-color: rgb(238, 20, 165);
+        background-color: var(--pink);
         padding: 20px;
         color: white;
         border-radius: 60px;
@@ -37,7 +38,7 @@ footer{
 .fa-linkedin {
         margin: 30px;
         font-size: 30px;
-        background-color: rgb(238, 20, 165);
+        background-color: var(--pink);
         padding: 20px;
         color: white;
         border-radius: 60px;
@@ -47,7 +48,7 @@ footer{
 .fa-blogger {
         margin: 30px;
         font-size: 30px;
-        background-color: rgb(238, 20, 165);
+        background-color: var(--pink);
         padding: 20px;
         color: white;
         border-radius: 60px;
