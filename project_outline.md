@@ -37,3 +37,11 @@ Tasks for tomorrow
 21/07/2022
 * I have decided to start over on my portfolio. This is my first big project and after learning responsiveness I wish to change to a mobile first layout.
 * Have added new files and css
+
+
+23/07/2022
+* deleted unnecessary files 
+* added text
+
+NEED TO ADD GRID
+chnage-class of nav from homepage-footer
