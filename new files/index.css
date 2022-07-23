@@ -7,6 +7,7 @@
  min-height: 100vh;
  box-sizing:border-box;
  --pink:rgb(238, 20, 165);
+ font-family: roboto, sans-serif;
  
 }
 /* Hamburger and nav bar menu */
@@ -146,10 +147,7 @@
 
 
 
-@media screen and (min-width: 540px) {
-
-
-    /* changed the grid to display the nav */
+@media screen and (min-width: 540px) }
 
 
 
@@ -157,9 +155,10 @@
 
 /* footer */
 footer{
-    display: flex;
+    display:flex;
     justify-content: center;
     font-family: 'Roboto' , sans-serif;
+    
     
 }
 
@@ -193,22 +192,5 @@ footer{
     border-radius: 60px;
 
     }
-
-    /* media queries */
-
-    /* Media queries */
-
-/* removed the navbar on mobile */
-
-
-@media screen and (max-width: 540px) {
-    #main-menu {
-        display: none;
-         }
     
-    #hamburger-menu {
-        display: inline;
-         }
-}
-
 
