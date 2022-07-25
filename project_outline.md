@@ -43,5 +43,6 @@ Tasks for tomorrow
 * deleted unnecessary files 
 * added text
 
-NEED TO ADD GRID
-chnage-class of nav from homepage-footer
+25/07/2022
+* need to create contact form and link to netlify
+* create the outline for about me
